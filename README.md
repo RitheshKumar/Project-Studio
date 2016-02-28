@@ -1,2 +1,5 @@
 # Project-Studio
-Code/Files involved in performing with the prosthetic drum (https://youtu.be/ntrlHw6f4E4)
+Code/Files involved in performing with the prosthetic drum 
+
+Performance     --> https://youtu.be/GwSUKhnbeSA
+Prosthetic Drum --> https://youtu.be/ntrlHw6f4E4
